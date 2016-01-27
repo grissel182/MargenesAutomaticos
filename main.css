@@ -1,0 +1,17 @@
+/* Escribe aqui tu CSS */
+div{
+	width: 280px;
+	height: 250px;
+	border: 10px solid yellow;
+
+}
+p{
+	margin: 60px 40px 40px;
+	line-height: 95%;
+}
+.textocentrado{
+	text-align: center;
+}
+.center{
+	margin: auto;
+}
