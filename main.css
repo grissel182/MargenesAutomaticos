@@ -1,7 +1,7 @@
 /* Escribe aqui tu CSS */
 
 body{
-	background-image: url("http://pre02.deviantart.net/2a74/th/pre/i/2008/132/d/2/textura_01_by_gailem.jpg"); 
+	background-image: url("http://www.fondos7.net/wallpaper-original/wallpapers/textura-de-madera-negra-2846.jpg"); 
 	
 }
 div{
@@ -9,17 +9,29 @@ div{
 	height: 250px;
 	border: 10px solid yellow;
 	background-color: rgba(7, 83, 90, 0.5);
-	
+	display: inline-block;
+	padding: 20px;
 
 }
 p{
-	margin: 60px 40px 40px;
+	margin-top: 70px;
 	line-height: 95%;
 	color: white;
 }
 .textocentrado{
 	text-align: center;
 }
-.center{
-	margin: auto;
+span{
+	margin: 10%;
 }
+.img{
+	width: 600px;
+	height: 200px;
+	border: 20px dotted black;
+	background-color: rgba(7, 83, 25, 0.3);
+	margin-left: 25%;
+	border-radius: 80%;
+}
+img{
+	margin: auto;
+	border-radius: 80%;
