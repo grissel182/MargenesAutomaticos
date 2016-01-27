@@ -1,13 +1,21 @@
 /* Escribe aqui tu CSS */
+
+body{
+	background-image: url("http://pre02.deviantart.net/2a74/th/pre/i/2008/132/d/2/textura_01_by_gailem.jpg"); 
+	
+}
 div{
 	width: 280px;
 	height: 250px;
 	border: 10px solid yellow;
+	background-color: rgba(7, 83, 90, 0.5);
+	
 
 }
 p{
 	margin: 60px 40px 40px;
 	line-height: 95%;
+	color: white;
 }
 .textocentrado{
 	text-align: center;
